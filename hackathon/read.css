@@ -1,0 +1,71 @@
+html {
+    font-size: 1rem;
+  }
+  
+  @include media-breakpoint-up(sm) {
+    html {
+      font-size: 1.2rem;
+    }
+  }
+  
+  @include media-breakpoint-up(md) {
+    html {
+      font-size: 1.4rem;
+    }
+  }
+  
+  @include media-breakpoint-up(lg) {
+    html {
+      font-size: 1.6rem;
+    }
+  }
+body{
+    font-family:'Times New Roman', Times, serif ;
+    color:white;
+}
+.top{
+    height: 100px;
+    background: linear-gradient(#21ae60,white);
+    margin-top: -1px;                             
+    margin-left: -9px;
+}
+#home{
+    text-decoration: none;
+    margin-left:1%;
+    color:white;
+    font-size:xx-large;
+    font-family:'Times New Roman', Times, serif ;
+}
+.wel{
+  margin-left:100px;
+  font-family:'Times New Roman', Times, serif ;
+  color:black;
+}
+#btn{
+   background-color: #21ae60;
+   color:white;
+   font-size: 1.7rem;
+}
+.card{
+    align-items: center;
+    
+}
+.container2{
+    display: flex;
+    flex-direction: row;
+}
+.container3{
+    display: flex;
+    flex-direction: row;
+}
+.col{
+    margin-left:5%;
+    margin-bottom: 5%;
+}
+.card-title{
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: bold;
+}
+
+

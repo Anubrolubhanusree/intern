@@ -1,0 +1,33 @@
+
+.inputf{
+    height: 50px;
+    width:400px;
+    border-radius: 10px;
+}
+.inputf1{
+    height:100px;
+    width:400px;
+    border-radius: 5px;
+}
+.price{
+    height:50px;
+    width:400px;
+    border-radius:5px;
+}
+.name{
+    height:50px;
+    width:400px;
+    border-radius:5px;
+}
+.postnow{
+    position: center;
+
+}
+.btn-secondary{
+    height:50px;
+    width:400px;
+    border-radius:5px;
+    background-color: #21ae60;
+    
+
+}

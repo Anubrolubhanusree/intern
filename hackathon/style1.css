@@ -1,0 +1,44 @@
+body{
+    background-size: cover;
+    background-repeat: no-repeat;
+    position:fixed;
+    height: 100%;
+    width: 100%;
+    background-color:(#21ae60,whitesmoke);
+    color:white;
+}
+.container2{
+    background-size: cover;
+    background-repeat: no-repeat;
+    position:fixed;
+    height: 100%;
+    width: 100%;
+}
+.top{
+    height: 100px;
+    background: linear-gradient(#21ae60,white);
+    margin-top: -10px;                             
+    margin-left: -9px;
+}
+.container{
+   margin-top:200px;
+   margin-left:550px;
+   display: flex;
+   flex-direction:row;
+}
+.btn{
+    background-color: #21ae60; 
+    color: white;
+}
+#sign{
+    margin-left:1000px;
+    margin-top: 20px;
+}
+.btn a{
+   text-decoration: none;
+   color:white;
+}
+.img{
+    width:30%;
+    margin-left: auto;
+}
